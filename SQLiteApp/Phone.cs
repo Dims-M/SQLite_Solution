@@ -19,7 +19,7 @@ namespace SQLiteApp
         private string company;
         private int price;
 
-        
+        [Key]
         public int Id { get; set; }
 
         //Столбци в таблице

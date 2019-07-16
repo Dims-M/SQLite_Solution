@@ -24,15 +24,15 @@ namespace SQLiteApp
     {
         ApplicationContext db;
 
-        public MainWindow()
-        {
+        //public MainWindow()
+        //{
 
-            InitializeComponent();
+        //    InitializeComponent();
             
-        }
+        //}
 
         //конструктор  формы
-        public MainWindow(Phone p)
+        public MainWindow()
         {
 
             InitializeComponent();
